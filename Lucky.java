@@ -41,5 +41,4 @@ class Lucky{
             cur.next = node;
         }
     }
-
 }

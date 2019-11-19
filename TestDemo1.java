@@ -26,7 +26,7 @@ class Flower extends Shape{
         System.out.println("❀");
     }
 }
-public class TestDemo {
+public class TestDemo1 {
     public static void drawMap(Shape shape){
 
         shape.draw();

@@ -48,7 +48,6 @@ public class Test1 {
         Person person = new Person();
         person.name = "cc";
 
-
         Person person1 = (Person) person.clone();
         System.out.println(person1.name);
     }
